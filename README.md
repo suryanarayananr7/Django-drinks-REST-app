@@ -1,6 +1,6 @@
 # Django app is created to view details of various drinks details using REST Framework.
 
-# Django REST Framework is used to implement a API to perform CRUD operations using GET, POST, PUT and DELETE commands.
+## Django REST Framework is used to implement a API to perform CRUD operations using GET, POST, PUT and DELETE commands.
 
 
 
